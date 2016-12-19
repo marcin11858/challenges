@@ -1,0 +1,2 @@
+bus.routes.challenge.file.path: src/test/resources/test-data.txt
+server.port: 8088
